@@ -1,0 +1,226 @@
+
+
+.header {
+
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 18px;
+    background-color: palegreen;
+    color:blueviolet;
+    margin-bottom: 0;
+    
+    
+}   
+
+.header h2{ 
+
+    display: inline-block;
+    border: 5px darkred double;
+    border-radius: 8px;
+    padding:5px 5px;
+}
+.guna-sing{
+
+    background-color:palegreen;
+    display: inline-block;
+}
+
+ .guna-sing p {
+
+    font: size 15px;
+    color: black;
+    border: 8px darkorange double;
+    display: inline-block;
+    text-align: center;
+    background-color: lightskyblue;
+    border-radius: 50px;
+    padding:10px 10px;
+    
+}
+
+.guna-sing video {
+
+    width: 250px;
+    margin-left: 130px ;
+    display: block;
+    object-fit: contain;
+    border: 10px darkorange double;
+    border-radius: 50px;
+}
+
+.guna-run  {
+    background-color:palegreen;
+    display: inline-block;
+    
+}
+
+
+ .guna-run p {
+    font: size 15px;
+    color: black;
+    border: 8px darkorange double;
+    display: inline-block;
+    text-align: center;
+    background-color: lightskyblue;
+    border-radius: 50px;
+    margin-left: 105px;
+    padding:10px 10px;
+    
+ }
+
+ .guna-run video{
+
+    width: 250px;
+    margin-left: 130px ;
+    display: block;
+    object-fit: contain;
+    border: 10px darkorange double;
+    border-radius: 50px;
+    margin-right: 100px;
+ }
+
+
+ .guna-chef {
+    background-color:palegreen;
+    display: inline-block;
+    width: 612px;
+    margin: 0 0;
+}   
+ 
+.guna-chef p {
+    font: size 15px;
+    color: black;
+    border: 8px darkorange double;
+    display: inline-block;
+    text-align: center;
+    background-color: lightskyblue;
+    border-radius: 50px;
+    margin-left: 100px;
+    padding:10px 10px;
+    
+    
+ }
+
+ .guna-chef video{
+
+    width: 250px;
+    margin-left: 130px ;
+    display: block;
+    object-fit: contain;
+    border: 10px darkorange double;
+    border-radius: 50px;
+    margin-right: 100px;
+ }
+
+ .fotos {
+    background-color:palegreen;
+   padding-top: 10px;
+  
+ }
+
+ .fotos p{font: size 15px;
+    color: rgba(0, 0, 0, 0.523);
+    border: 8px darkorange double;
+    display: block;
+    text-align: center;
+    background-color:rgb(30, 210, 84);
+    border-radius: 50px;
+   margin-left: 100px;
+   font-size: 30px;
+   padding: 5px 5px;
+
+
+ }        
+ .ph1{
+    width: 250px;
+    border-radius: 25px;
+    margin-top: 25px;
+    margin-left: 175px;
+    border: 8px chocolate solid;
+ }
+ .ph2{
+    width: 250px;
+    margin-left: 100px;
+    border-radius: 25px;
+    border: 8px chocolate solid;
+    
+ }
+ .ph3{
+    width: 250px;
+    margin-left: 100px;
+    border-radius: 25px;
+    height: 330px;
+    object-fit: cover;
+    border: 8px chocolate solid;
+ }
+ .ph4{
+    width: 250px;
+    margin-left: 120px;
+    height: 335px;
+    object-fit: cover;
+    border-radius: 25px;
+    border: 8px chocolate solid;
+ }
+ .guna-sleep{
+    background-color:palegreen;
+    display: inline-block;
+    
+}
+
+ .guna-sleep p {
+    font: size 15px;
+    color: rgba(8, 19, 228, 0.586);
+    border: 8px darkorange double;
+    display: block;
+    text-align: center;
+    background-color: palegreen;
+    border-radius: 50px;
+   margin-left: 100px;
+   font-size: 30px;
+   padding: 5px 5px;
+   background-color: rgb(247, 154, 154);
+
+
+ }
+ .guna-sleep video{
+    width: 250px;
+    margin-left: 110px ;
+    display: inline-block;
+    object-fit: contain;
+    border: 10px darkorange double;
+    border-radius: 50px;
+    margin-right: 218px;
+    
+
+ }
+ .slpp {
+
+ width: 250px;
+ height:420px;
+ 
+    border-radius: 25px;
+    margin-top: 25px;
+    margin-left: 300px;
+    margin-right: 500px;
+    margin-bottom: 50px;
+    object-fit: contain; 
+    border: 10px darkorange double;
+    border-radius: 50px;
+   vertical-align: top;
+    
+}
+
+footer{
+   background-color: rgba(0, 0, 0, 0.488);
+}
+
+footer p {
+
+   text-align: center;
+   font-family: Georgia;
+   margin: 0;
+   object-position:  100px;
+   color: rgba(4, 9, 9, 0.925);
+
+}
+
