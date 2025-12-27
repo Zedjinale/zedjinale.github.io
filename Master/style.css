@@ -1,0 +1,36 @@
+
+body{
+
+    color: #E5E7EB;
+    background-color:#0F172A;
+    text-align: center;
+}
+
+.cover {
+
+    text-align: center;
+}
+.alphabet{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+    background-color: #0F172A;
+}
+
+.alphabet div
+{
+padding: 30px;
+text-align: center;
+background-color:#22C55E;
+cursor: pointer;
+font-size: 70px;
+
+}
+
+.alphabet div:hover{
+
+    background-color: red;
+  cursor: pointer;
+  transition: background-color 0.8s ease;
+
+}

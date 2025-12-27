@@ -1,0 +1,1 @@
+<div class="box" onclick="toggleRed(this)"></div>
